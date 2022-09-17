@@ -4,5 +4,8 @@ title = 'blog.med.schu.im'
 theme = "about-blank"
 enableGitInfo = true
 
+[params]
+  showTagPills = true
+
 [markup.goldmark.renderer]
 unsafe= true
