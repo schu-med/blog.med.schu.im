@@ -1,0 +1,8 @@
+baseURL = 'https://blog.med.schu.im/'
+languageCode = 'en'
+title = 'blog.med.schu.im'
+theme = "about-blank"
+enableGitInfo = true
+
+[markup.goldmark.renderer]
+unsafe= true
