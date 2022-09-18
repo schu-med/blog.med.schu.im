@@ -5,4 +5,4 @@ layout: "indexpage"
 hidden: true
 ---
 
-Medical links and papers. Post ≠ endorsement.
+A personal notebook of medical links and papers. Disclaimer: post ≠ endorsement.
